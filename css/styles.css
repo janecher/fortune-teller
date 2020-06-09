@@ -1,0 +1,17 @@
+.jumbotron{
+  height: 160px;
+  overflow: auto; 
+  padding-top: 20px;
+  font-family: Trattatello, fantasy;
+}
+
+#answer{
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(../background.png);
+  background-size: cover;
+}
