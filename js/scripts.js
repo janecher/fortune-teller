@@ -15,7 +15,6 @@ $(document).ready(function(){
       else if($(this).val() === "crow"){
         result -= 4;
       }
-      console.log(result);
     });
     $("input:checkbox[name=lucky-event]:checked").each(function(){
       if($(this).val() === "rainbow"){
